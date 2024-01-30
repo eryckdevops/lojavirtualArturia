@@ -58,7 +58,11 @@ Template do Site:
 
 
 =========================
-ABA DE COMENTARIO
+
+
+## ABA DE COMENTARIO
+
+
 ==========================
 
 
@@ -66,8 +70,16 @@ ABA DE COMENTARIO
 
 ### CRIAR CONTA
 ==========================
+
+
 IMPORTANTE CRIAR CONTA PARA REALIZAR COMPRAR DE ALGUM PRODUTO
+
+=========================
+
+
 ![Alt text](<Prints/Frete gratis, precisa esta logado.png>)
+
+
 ==========================
 ![Alt text](<Prints/Prints/Criar conta.png>)
 
@@ -90,6 +102,8 @@ IMPORTANTE CRIAR CONTA PARA REALIZAR COMPRAR DE ALGUM PRODUTO
 ![Alt text](<Prints/Usuario logado2.png>)
 
 OBS: precisa estar logado para adicionar produto aos favoritos
+
+
 ![Alt text](<Prints/Frete gratis, precisa esta logado-1.png>)
 
 ### PRODUTOS
