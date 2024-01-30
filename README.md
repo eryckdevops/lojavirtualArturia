@@ -48,10 +48,7 @@ Template do Site:
 <br>
 
 ### CRIEI UMA ABA DE BLOG
-![Alt text](Prints\Blog.png)
-
-
-
+![Alt text](Prints/Blog.png)
 
 
 
