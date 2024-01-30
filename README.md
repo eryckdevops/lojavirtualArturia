@@ -1,4 +1,5 @@
 #### Projeto Erick Rodrigues Arturiatech
+Qualquer dúvida, estou à disposição
 
 # Loja Virtual
 Uma loja virtual simples, para à venda de diversos produtos.
@@ -37,89 +38,99 @@ Template do Site:
 
 ### INICIO:
 
-![Alt text](Inicio.png)
+![Alt text](Prints\Inicio.png)
 
-![Alt text](Inicio2.png)
+![Alt text](Prints\Inicio2.png)
 
-![Alt text](inicio3.png)
+![Alt text](Prints\inicio3.png)
 
-![Alt text](<Direitos Autorais.png>)
+![Alt text](<Prints\Direitos Autorais.png>)
 <br>
 
 ### CRIEI UMA ABA DE BLOG
-![Alt text](Blog.png)
+![Alt text](Prints\Blog.png)
 
-![Alt text](Blog1.png)
 
-![Alt text](blog2.png)
+
+
+
+
+![Alt text](Prints\Blog1.png)
+
+![Alt text](Prints\blog2.png)
+
+
 =========================
 ABA DE COMENTARIO
-![Alt text](blogcomida.png)
+==========================
+
+
+![Alt text](Prints\blogcomida.png)
 
 ### CRIAR CONTA
 ==========================
 IMPORTANTE CRIAR CONTA PARA REALIZAR COMPRAR DE ALGUM PRODUTO
-![Alt text](<Frete gratis, precisa esta logado.png>)
+![Alt text](<Prints\Frete gratis, precisa esta logado.png>)
 ==========================
-![Alt text](<Criar conta.png>)
+![Alt text](<Prints\Prints\Criar conta.png>)
 
-![Alt text](<Cadastro Tela de login.png>)
+![Alt text](<Prints\Cadastro Tela de login.png>)
 
-![Alt text](<Cadastro tela de login 2.png>)
+![Alt text](<Prints\Cadastro tela de login 2.png>)
 
 
 ### VALIDAÇÃO DE CONTA
 
-![Alt text](<TIREI A VALIDAÇÃO.png>)
+![Alt text](<Prints\TIREI A VALIDAÇÃO.png>)
 
-![Alt text](<VALIDAÇÃO TIRADA-1.png>)
+![Alt text](<Prints\VALIDAÇÃO TIRADA-1.png>)
 
 
 ### USUÁRIO LOGADO
 
-![Alt text](<Usuario logado.png>)
+![Alt text](<Prints\Usuario logado.png>)
 
-![Alt text](<Usuario logado2.png>)
+![Alt text](<Prints\Usuario logado2.png>)
 
 OBS: precisa estar logado para adicionar produto aos favoritos
-![Alt text](<Frete gratis, precisa esta logado-1.png>)
+![Alt text](<Prints\Frete gratis, precisa esta logado-1.png>)
 
 ### PRODUTOS
 
-![Alt text](Produto.png)
+![Alt text](Prints\Produto.png)
 
-![Alt text](produto1.png)
+![Alt text](Prints\produto1.png)
 
-![Alt text](produto2.png)
+![Alt text](Prints\produto2.png)
 
-![Alt text](Produtos3.png)
+![Alt text](Prints\Produtos3.png)
 
 ### CARRINHO
 
-![Alt text](CARRINHO.png)
+![Alt text](Prints\CARRINHO.png)
 
-![Alt text](<Carrinho cheio com amei.png>)
+![Alt text](<Prints\Carrinho cheio com amei.png>)
 
-![Alt text](<Produtos no carrinhos.png>)
+![Alt text](<Prints\Produtos no carrinhos.png>)
 
-![Alt text](<Produtos no carrinhos2.png>)
+![Alt text](<Prints\Produtos no carrinhos2.png>)
 
-![Alt text](<Produtos no carrinhos3.png>)
+![Alt text](<Prints\Produtos no carrinhos3.png>)
 
 ### FAVORITOS
 
-![Alt text](<Produto adicionado a gostei.png>)
+![Alt text](<Prints\Produto adicionado a gostei.png>)
 
-![Alt text](Favoritos.png)
+![Alt text](Prints\Favoritos.png)
 
-![Alt text](<Favoritos 2.png>)
+![Alt text](<Prints\Favoritos 2.png>)
 
 ### VISUALIZAÇÃO DE PRODUTO
 
-![Alt text](<Visualizar Produto.png>)
+![Alt text](<Prints\Visualizar Produto.png>)
 
-![Alt text](<Visualizar 2.png>)
+![Alt text](<Prints\Visualizar 2.png>)
 
-![Alt text](<Visualizar 3.png>)
-"# lojavirtualArturia"  "# lojavirtualArturia" 
-"# lojavirtualArturia" 
+![Alt text](<Prints\Visualizar 3.png>)
+"# lojavirtualArturia"  "# lojavirtualArturia"
+"# lojavirtualArturia"
