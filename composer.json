@@ -1,0 +1,29 @@
+{
+    "name": "loja-virtual/loja-virtual",
+    "description": "Uma loja virtual simples",
+    "minimum-stability": "stable",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Erick Rodrigues",
+            "email": "ErickRodrigues1010@gmail.com",
+            "role": "developer",
+            "homepage": "https://eryckdevops.github.io/"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "Src\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.4",
+        "jenssegers/blade": "^1.4",
+        "illuminate/database": "^8.70",
+        "mercadopago/dx-php": "^2.4",
+        "league/oauth2-facebook": "^2.0",
+        "league/oauth2-google": "^4.0",
+        "phpmailer/phpmailer": "^6.9"
+    }
+}

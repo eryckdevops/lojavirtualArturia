@@ -1,0 +1,6 @@
+#/storage/app/public/*
+/storage/framework/cache/*
+/storage/logs/*
+/storage/.cache/
+/vendor/
+/node_modules/
