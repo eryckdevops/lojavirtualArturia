@@ -38,13 +38,13 @@ Template do Site:
 
 ### INICIO:
 
-![Alt text](Prints\Inicio.png)
+![Alt text](Prints/Inicio.png)
 
-![Alt text](Prints\Inicio2.png)
+![Alt text](Prints/Inicio2.png)
 
-![Alt text](Prints\inicio3.png)
+![Alt text](Prints/inicio3.png)
 
-![Alt text](<Prints\Direitos Autorais.png>)
+![Alt text](<Prints/Direitos Autorais.png>)
 <br>
 
 ### CRIEI UMA ABA DE BLOG
@@ -52,9 +52,9 @@ Template do Site:
 
 
 
-![Alt text](Prints\Blog1.png)
+![Alt text](Prints/Blog1.png)
 
-![Alt text](Prints\blog2.png)
+![Alt text](Prints/blog2.png)
 
 
 =========================
@@ -62,72 +62,72 @@ ABA DE COMENTARIO
 ==========================
 
 
-![Alt text](Prints\blogcomida.png)
+![Alt text](Prints/blogcomida.png)
 
 ### CRIAR CONTA
 ==========================
 IMPORTANTE CRIAR CONTA PARA REALIZAR COMPRAR DE ALGUM PRODUTO
-![Alt text](<Prints\Frete gratis, precisa esta logado.png>)
+![Alt text](<Prints/Frete gratis, precisa esta logado.png>)
 ==========================
-![Alt text](<Prints\Prints\Criar conta.png>)
+![Alt text](<Prints/Prints/Criar conta.png>)
 
-![Alt text](<Prints\Cadastro Tela de login.png>)
+![Alt text](<Prints/Cadastro Tela de login.png>)
 
-![Alt text](<Prints\Cadastro tela de login 2.png>)
+![Alt text](<Prints/Cadastro tela de login 2.png>)
 
 
 ### VALIDAÇÃO DE CONTA
 
-![Alt text](<Prints\TIREI A VALIDAÇÃO.png>)
+![Alt text](<Prints/TIREI A VALIDAÇÃO.png>)
 
-![Alt text](<Prints\VALIDAÇÃO TIRADA-1.png>)
+![Alt text](<Prints/VALIDAÇÃO TIRADA-1.png>)
 
 
 ### USUÁRIO LOGADO
 
-![Alt text](<Prints\Usuario logado.png>)
+![Alt text](<Prints/Usuario logado.png>)
 
-![Alt text](<Prints\Usuario logado2.png>)
+![Alt text](<Prints/Usuario logado2.png>)
 
 OBS: precisa estar logado para adicionar produto aos favoritos
-![Alt text](<Prints\Frete gratis, precisa esta logado-1.png>)
+![Alt text](<Prints/Frete gratis, precisa esta logado-1.png>)
 
 ### PRODUTOS
 
-![Alt text](Prints\Produto.png)
+![Alt text](Prints/Produto.png)
 
-![Alt text](Prints\produto1.png)
+![Alt text](Prints/produto1.png)
 
-![Alt text](Prints\produto2.png)
+![Alt text](Prints/produto2.png)
 
-![Alt text](Prints\Produtos3.png)
+![Alt text](Prints/Produtos3.png)
 
 ### CARRINHO
 
-![Alt text](Prints\CARRINHO.png)
+![Alt text](Prints/CARRINHO.png)
 
-![Alt text](<Prints\Carrinho cheio com amei.png>)
+![Alt text](<Prints/Carrinho cheio com amei.png>)
 
-![Alt text](<Prints\Produtos no carrinhos.png>)
+![Alt text](<Prints/Produtos no carrinhos.png>)
 
-![Alt text](<Prints\Produtos no carrinhos2.png>)
+![Alt text](<Prints/Produtos no carrinhos2.png>)
 
-![Alt text](<Prints\Produtos no carrinhos3.png>)
+![Alt text](<Prints/Produtos no carrinhos3.png>)
 
 ### FAVORITOS
 
-![Alt text](<Prints\Produto adicionado a gostei.png>)
+![Alt text](<Prints/Produto adicionado a gostei.png>)
 
-![Alt text](Prints\Favoritos.png)
+![Alt text](Prints/Favoritos.png)
 
-![Alt text](<Prints\Favoritos 2.png>)
+![Alt text](<Prints/Favoritos 2.png>)
 
 ### VISUALIZAÇÃO DE PRODUTO
 
-![Alt text](<Prints\Visualizar Produto.png>)
+![Alt text](<Prints/Visualizar Produto.png>)
 
-![Alt text](<Prints\Visualizar 2.png>)
+![Alt text](<Prints/Visualizar 2.png>)
 
-![Alt text](<Prints\Visualizar 3.png>)
+![Alt text](<Prints/Visualizar 3.png>)
 "# lojavirtualArturia"  "# lojavirtualArturia"
 "# lojavirtualArturia"
