@@ -36,23 +36,34 @@ Quando você conseguir acessar o painel de controle faça as configurações dos
 
 Template do Site:
 
+
+
+
 ### INICIO:
 
+
+
 ![Alt text](Prints/Inicio.png)
+<br>
 
 ![Alt text](Prints/Inicio2.png)
+<br>
 
 ![Alt text](Prints/inicio3.png)
+<br>
 
 ![Alt text](<Prints/Direitos Autorais.png>)
 <br>
 
+
+
+
 ### CRIEI UMA ABA DE BLOG
 ![Alt text](Prints/Blog.png)
-
-
+<br>
 
 ![Alt text](Prints/Blog1.png)
+<br>
 
 ![Alt text](Prints/blog2.png)
 
@@ -67,6 +78,7 @@ Template do Site:
 
 
 ![Alt text](Prints/blogcomida.png)
+<br>
 
 ### CRIAR CONTA
 ==========================
@@ -143,5 +155,33 @@ OBS: precisa estar logado para adicionar produto aos favoritos
 ![Alt text](<Prints/Visualizar 2.png>)
 
 ![Alt text](<Prints/Visualizar 3.png>)
+
+
+
+
+## 🤝 Desenvolvedor
+
+Software Engineer
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/109317442?v=4" width="160px;" alt="Erick Rodrigues"/><br>
+        <sub>
+          <b>Erick Rodrigues</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+## 📝 Licença
+
+Este projeto está sob licença. Consulte o arquivo [LICENSE](LICENSE.md) para obter mais detalhes.
+
+&#xa0;
+
+
 "# lojavirtualArturia"  "# lojavirtualArturia"
 "# lojavirtualArturia"
